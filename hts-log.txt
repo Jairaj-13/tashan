@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 Mar 2023 22:26:19 at https://templatemanja.com/tashan/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://templatemanja.com/tashan/demo/index.html -O1 "E:\javascript\Tashan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:31:06	Warning: 	Retry after error 409 (Conflict) at link https://templatemanja.com/tashan/demo/contact.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://templatemanja.com/tashan/demo/contact-2.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:08	Warning: 	Retry after error 409 (Conflict) at link https://templatemanja.com/tashan/demo/register.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://templatemanja.com/tashan/demo/404.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:53	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/index-6.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/owlcarousel/css/owl.video.play.png (from https://templatemanja.com/tashan/demo/assets/owlcarousel/css/owl.carousel.min.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/owlcarousel/css/AjaxLoader.gif (from https://templatemanja.com/tashan/demo/assets/owlcarousel/css/owl.theme.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/css/ajax-loader.gif (from https://templatemanja.com/tashan/demo/assets/css/slick-theme.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/css/fonts/slick.eot (from https://templatemanja.com/tashan/demo/assets/css/slick-theme.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/css/fonts/slick.eot? (from https://templatemanja.com/tashan/demo/assets/css/slick-theme.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/css/fonts/slick.woff (from https://templatemanja.com/tashan/demo/assets/css/slick-theme.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/css/fonts/slick.ttf (from https://templatemanja.com/tashan/demo/assets/css/slick-theme.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/css/fonts/slick.svg (from https://templatemanja.com/tashan/demo/assets/css/slick-theme.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/images/shape12.png (from https://templatemanja.com/tashan/demo/assets/css/style.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/images/footer_shape.png (from https://templatemanja.com/tashan/demo/assets/css/style.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/images/pattern_bg2.png (from https://templatemanja.com/tashan/demo/assets/css/style.css)
+22:31:56	Error: 	"Not Found" (404) at link https://templatemanja.com/tashan/demo/assets/images/loading.gif (from https://templatemanja.com/tashan/demo/assets/css/style.css)
+22:31:56	Warning: 	Retry after error 409 () at link https://templatemanja.com/tashan/demo/contact.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:56	Warning: 	Retry after error 409 (Conflict) at link https://templatemanja.com/tashan/demo/contact-2.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:56	Warning: 	Retry after error 409 () at link https://templatemanja.com/tashan/demo/register.html (from https://templatemanja.com/tashan/demo/index.html)
+22:31:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://templatemanja.com/tashan/demo/assets/images/menu_bg.jpg (from https://templatemanja.com/tashan/demo/menu.html)
+22:32:00	Error: 	"" (409) after 2 retries at link https://templatemanja.com/tashan/demo/contact.html (from https://templatemanja.com/tashan/demo/index.html)
+22:32:00	Error: 	"Conflict" (409) after 2 retries at link https://templatemanja.com/tashan/demo/contact-2.html (from https://templatemanja.com/tashan/demo/index.html)
+22:32:00	Error: 	"" (409) after 2 retries at link https://templatemanja.com/tashan/demo/register.html (from https://templatemanja.com/tashan/demo/index.html)
+22:32:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://templatemanja.com/tashan/demo/assets/images/menu_bg.jpg (from https://templatemanja.com/tashan/demo/menu.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 59 seconds : 229 links scanned, 203 files written (82764954 bytes overall) [82174449 bytes received at 228898 bytes/sec], 859074 bytes transferred using HTTP compression in 20 files, ratio 20%, 1.0 requests per connection
+(16 errors, 9 warnings, 0 messages)
